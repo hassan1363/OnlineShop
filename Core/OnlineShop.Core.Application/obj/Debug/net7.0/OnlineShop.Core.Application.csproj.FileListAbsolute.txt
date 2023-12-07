@@ -1,0 +1,12 @@
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\bin\Debug\net7.0\OnlineShop.Core.Application.deps.json
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\bin\Debug\net7.0\OnlineShop.Core.Application.dll
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\bin\Debug\net7.0\OnlineShop.Core.Application.pdb
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.csproj.AssemblyReference.cache
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.AssemblyInfoInputs.cache
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.AssemblyInfo.cs
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.csproj.CoreCompileInputs.cache
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.dll
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\refint\OnlineShop.Core.Application.dll
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\OnlineShop.Core.Application.pdb
+G:\Projects\OnlineShop\Core\OnlineShop.Core.Application\obj\Debug\net7.0\ref\OnlineShop.Core.Application.dll

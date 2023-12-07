@@ -1,0 +1,17 @@
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\bin\Debug\net7.0\OnlineShop.Infrastructure.Persistence.deps.json
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\bin\Debug\net7.0\OnlineShop.Infrastructure.Persistence.runtimeconfig.json
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\bin\Debug\net7.0\OnlineShop.Infrastructure.Persistence.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\bin\Debug\net7.0\OnlineShop.Infrastructure.Persistence.pdb
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.csproj.AssemblyReference.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.AssemblyInfoInputs.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.AssemblyInfo.cs
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\refint\OnlineShop.Infrastructure.Persistence.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.pdb
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.genruntimeconfig.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\ref\OnlineShop.Infrastructure.Persistence.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\bin\Debug\net7.0\OnlineShop.Core.Domain.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\bin\Debug\net7.0\OnlineShop.Core.Domain.pdb
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Persistence\obj\Debug\net7.0\OnlineShop.Infrastructure.Persistence.csproj.CopyComplete

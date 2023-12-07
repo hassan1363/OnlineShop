@@ -1,0 +1,12 @@
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\bin\Debug\net7.0\OnlineShop.Infrastructure.Shared.deps.json
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\bin\Debug\net7.0\OnlineShop.Infrastructure.Shared.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\bin\Debug\net7.0\OnlineShop.Infrastructure.Shared.pdb
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.csproj.AssemblyReference.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.AssemblyInfoInputs.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.AssemblyInfo.cs
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\refint\OnlineShop.Infrastructure.Shared.dll
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\OnlineShop.Infrastructure.Shared.pdb
+G:\Projects\OnlineShop\Infrastructure\OnlineShop.Infrastructure.Shared\obj\Debug\net7.0\ref\OnlineShop.Infrastructure.Shared.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OnlineShop.Presentation.WebApi.props" />
+</Project>
